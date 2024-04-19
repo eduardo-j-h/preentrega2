@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+  h1, h2, h3{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color:rgb(0, 0, 0);
+}
+
+h2, h6 {
+    text-align: center;
+  }
+
+body{
+    background-color: #849b93;
+    
+}
+
+header{
+    background-color: #ffffff;
+}
+
+.logo{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.imagenPortada{
+    width: 300px;
+    border-radius: 50%;
+}
+
+.boxLogo{
+    text-align: center;
+}
+  
+
+ul{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    list-style-type: none;
+}
+
+a{
+    color:rgb(20, 23, 22);
+    font-size: 1rem;
+    padding: 10px;
+}
+
+footer{
+    background-color: #484141;
+    color: rgb(72, 77, 77);
+    padding: 20px;
+    text-align: center;
+    opacity: .8;
+}
+
+p{
+    padding:20px;
+    line-height: 2;
+}
+
+.mainImage{
+    text-align: center;
+}
+
+.textoRemarcado{
+    color:rgb(75, 75, 80);
+    font-weight: bold;
+}
+
+img {
+    border: 1px solid #ddd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+}
